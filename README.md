@@ -37,7 +37,7 @@ Para começar a usar o Devnalta, siga as etapas de instalação abaixo:
 
 1. Certifique-se de ter o Python instalado no seu sistema. Caso contrário, faça o download e instale-o a partir do site oficial do Python: [https://www.python.org](https://www.python.org).
 2. Abra o terminal e execute o seguinte comando para clonar o repositório Devnalta do GitHub:
-git clone https://github.com/brunoragner/devnalta.git
+https://github.com/BrunoRagner/devnaltacode.git
 
 3. Navegue até o diretório raiz do projeto:
 cd devnalta
