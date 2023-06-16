@@ -1,10 +1,10 @@
 # devnaltacode
-Editor de Código Devnalta
+###Editor de Código Devnalta
 
-O Editor de Código Devnalta é uma aplicação leve e eficiente para editar e executar código em várias linguagens de programação. Com uma interface simples e recursos úteis, o Devnalta oferece uma experiência de edição de código suave e produtiva.
+##O Editor de Código Devnalta é uma aplicação leve e eficiente para editar e executar código em várias linguagens de programação. Com uma interface simples e recursos úteis, o Devnalta oferece uma experiência de edição de código suave e produtiva.
 Funcionalidades
 
-O Devnalta possui as seguintes funcionalidades:
+###O Devnalta possui as seguintes funcionalidades:
 
     Edição de código em várias linguagens, incluindo Python, JavaScript, C++ e muito mais.
     Destaque de sintaxe para melhor legibilidade do código.
@@ -14,7 +14,7 @@ O Devnalta possui as seguintes funcionalidades:
 
 Como instalar
 
-Para instalar o Editor de Código Devnalta, siga as etapas abaixo:
+#Para instalar o Editor de Código Devnalta, siga as etapas abaixo:
 
     Certifique-se de ter o Python instalado no seu sistema.
     Baixe o código-fonte do Devnalta do repositório GitHub: https://github.com/seu-usuario/devnalta
